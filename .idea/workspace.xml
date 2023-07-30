@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9a44e74f-d1a0-43c9-b04f-6ebbefc0e7e7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-cursos/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-cursos/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-cursos/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-cursos/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-cursos/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-cursos/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-cursos/src/main/java/org/miguelbtcode/springcloud/msvc/cursos/MsvcCursosApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-cursos/src/main/java/org/miguelbtcode/springcloud/msvc/cursos/controllers/CursoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-cursos/src/main/java/org/miguelbtcode/springcloud/msvc/cursos/models/entity/Curso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-cursos/src/main/java/org/miguelbtcode/springcloud/msvc/cursos/repositories/CursoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-cursos/src/main/java/org/miguelbtcode/springcloud/msvc/cursos/services/CursoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-cursos/src/main/java/org/miguelbtcode/springcloud/msvc/cursos/services/CursoServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-cursos/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-cursos/src/test/java/org/miguelbtcode/springcloud/msvc/cursos/MsvcCursosApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-usuarios/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-usuarios/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-usuarios/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-usuarios/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-usuarios/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-usuarios/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-usuarios/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-usuarios/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-usuarios/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-usuarios/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-usuarios/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-usuarios/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-usuarios/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-usuarios/src/main/java/org/miguelbtcode/springcloud/msvc/usuarios/MsvcUsuariosApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-usuarios/src/main/java/org/miguelbtcode/springcloud/msvc/usuarios/controllers/UsuarioController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-usuarios/src/main/java/org/miguelbtcode/springcloud/msvc/usuarios/models/entity/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-usuarios/src/main/java/org/miguelbtcode/springcloud/msvc/usuarios/repositories/UsuarioRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-usuarios/src/main/java/org/miguelbtcode/springcloud/msvc/usuarios/services/UsuarioService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-usuarios/src/main/java/org/miguelbtcode/springcloud/msvc/usuarios/services/UsuarioServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-usuarios/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msvc-usuarios/src/test/java/org/miguelbtcode/springcloud/msvc/usuarios/MsvcUsuariosApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/miguelbtcode/springcloud/msvc/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/demo">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2TJIQEjM4jpjCi8fuh3Zsd4KClF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "20",
+    "last_opened_file_path": "/Users/miguelbtcode/Cursos/1.SpringCloudKubernetes/curso-kubernetes",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MsvcUsuariosApplication">
+    <configuration name="MsvcCursosApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="msvc-cursos" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.miguelbtcode.springcloud.msvc.cursos.MsvcCursosApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MsvcUsuariosApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="msvc-usuarios" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.miguelbtcode.springcloud.msvc.usuarios.MsvcUsuariosApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a44e74f-d1a0-43c9-b04f-6ebbefc0e7e7" name="Changes" comment="" />
+      <created>1690754739079</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690754739079</updated>
+      <workItem from="1690754741384" duration="511000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
